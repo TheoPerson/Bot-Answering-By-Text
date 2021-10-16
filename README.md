@@ -1,8 +1,8 @@
 # Bot-Answering-By-Text
 
-Simple code who made you DIsocrd BOT answer to user after detect a Keyword that YOU choosed.
+Simple code who made you Discord BOT answer to user after detect a Keyword that YOU choosed.
 
-All informationsin the #index.js file.
+All informations in the [Index.js](https://github.com/JUGUK/Bot-Answering-By-Text/blob/main/index.js)
 
 ### Connect with me:ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
