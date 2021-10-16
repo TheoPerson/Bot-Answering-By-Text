@@ -1,4 +1,6 @@
-# Bot-Answering-By-Text
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&multiline=true&lines=Hey+this+is+a+code)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&multiline=true&lines=who+make+your+bot+answer+to+users)](https://git.io/typing-svg)
 
 Simple code who made you Discord BOT answer to user after detect a Keyword that YOU choosed.
 
