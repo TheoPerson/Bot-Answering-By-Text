@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&multiline=true&lines=who+make+your+bot+answer+to+users)](https://git.io/typing-svg)
 
-Simple code who made you Discord BOT answer to user after detect a Keyword that YOU choosed.
+Simple code who made you Discord BOT answer to user after detecting a Keyword that YOU chose.
 
 All informations in the [Index.js](https://github.com/JUGUK/Bot-Answering-By-Text/blob/main/index.js)
 
